@@ -1,0 +1,15 @@
+{
+    "movies_parsed": 2000,
+    "html_files": 2016,
+    "detail_pages": 2000,
+    "category_pages": 12,
+    "jpg_files_in_zip_source": 0,
+    "missing_baidu": [],
+    "missing_category_links": [],
+    "missing_player": [],
+    "all_detail_pages": true,
+    "all_categories_cover_movies": true,
+    "all_html_has_baidu": true,
+    "no_images_packaged": true,
+    "all_player_ready": true
+}
